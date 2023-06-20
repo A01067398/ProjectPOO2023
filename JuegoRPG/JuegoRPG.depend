@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1687230040 source:d:\entregas\17\projectpoo2023\juegorpg\main.cpp
+	<iostream>
+	<time.h>
+	<vector>
+	"Personaje.h"
+	"Estadistica.h"
+
+1687229930 d:\entregas\17\projectpoo2023\juegorpg\include\personaje.h
+	<iostream>
+	<string>
+	"Debuff.h"
+	"Buff.h"
+
+1687229841 d:\entregas\17\projectpoo2023\juegorpg\include\debuff.h
+	"Efecto.h"
+
+1687229736 d:\entregas\17\projectpoo2023\juegorpg\include\efecto.h
+	<string>
+
+1687229841 d:\entregas\17\projectpoo2023\juegorpg\include\buff.h
+	"Efecto.h"
+
+1687229997 d:\entregas\17\projectpoo2023\juegorpg\include\estadistica.h
+	<iostream>
+	<string>
+	<string.h>
+	<vector>
+
+1687229841 source:d:\entregas\17\projectpoo2023\juegorpg\src\buff.cpp
+	"Buff.h"
+
+1687229841 source:d:\entregas\17\projectpoo2023\juegorpg\src\debuff.cpp
+	"Debuff.h"
+
+1687229736 source:d:\entregas\17\projectpoo2023\juegorpg\src\efecto.cpp
+	"Efecto.h"
+
+1687229997 source:d:\entregas\17\projectpoo2023\juegorpg\src\estadistica.cpp
+	"Estadistica.h"
+
+1687229930 source:d:\entregas\17\projectpoo2023\juegorpg\src\personaje.cpp
+	"Personaje.h"
+

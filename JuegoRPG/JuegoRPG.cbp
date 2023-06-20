@@ -34,8 +34,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Buff.h" />
+		<Unit filename="include/Debuff.h" />
 		<Unit filename="include/Efecto.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Buff.cpp" />
+		<Unit filename="src/Debuff.cpp" />
 		<Unit filename="src/Efecto.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
